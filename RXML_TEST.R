@@ -25,4 +25,4 @@ for (i in seq(name)) {
 movie.names <-gsub('alt=','',movie.names)
 movie.names <-gsub('"','',movie.names)
 
-####################### RCurl研究 ###############################
+
